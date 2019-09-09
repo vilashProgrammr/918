@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     Typeface weatherFont;
     String city = "San Francisco, USA";
     /* Please Put your API KEY here */
-    String OPEN_WEATHER_MAP_API = "cbfdb21fa1793c10b14b6b6d00fbef03";
+    String OPEN_WEATHER_MAP_API = "059aed0a2a1fd44d11a12f54554248bf";
     /* Please Put your API KEY here */
 
 
