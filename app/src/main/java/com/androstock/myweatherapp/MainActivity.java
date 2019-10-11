@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Uncomment the code below to pass the test
-                /*
+                
                 AlertDialog.Builder alertDialog = new AlertDialog.Builder(MainActivity.this);
                 alertDialog.setTitle("Change City");
                 final EditText input = new EditText(MainActivity.this);
@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
                             }
                         });
                 alertDialog.show();
-                */
+                
             }
         });
 
